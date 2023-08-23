@@ -4,7 +4,7 @@
 
 ## 目前的大饼😍😋😘🥰🤩🤗
 - AboveTheCumulus 积云之上
-  - 一款由QWQSoftware研发的立体开放世界游戏🤗
+  - 一款由QWQSoftware研发的立体射击游戏🤗
 - qwqFramework qwq框架
   - 一款由QWQSoftware研发的，适用于Godot游戏引擎的开源游戏框架（积云之上在用）😘🥰🤩
 - 逃离一中
